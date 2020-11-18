@@ -8,8 +8,6 @@
 
   "main": "main.js",
 
-  "activationEvents": ["onWorkspaceContains:.git/config"],
-
   "entitlements": {
     "process": true
   },

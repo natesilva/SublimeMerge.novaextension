@@ -9,12 +9,6 @@ This extension requires some additional tools to be installed on your Mac:
 
 ## Usage
 
-<!--
-🎈 If users will interact with your extension manually, describe those options:
--->
-
-The Sublime Merge commands are available in any local project that has a `.git` directory.
-
 To access the commands:
 
 - Open the command palette and type `Sublime Merge`
