@@ -1,0 +1,37 @@
+{
+  "identifier": "com.natesilva.nova-extension.SublimeMerge",
+  "name": "Sublime Merge",
+  "organization": "Nate Silva",
+  "description": "Open the current workspace with the Sublime Merge Git client.",
+  "version": "1.0",
+  "categories": ["commands"],
+
+  "main": "main.js",
+
+  "activationEvents": ["onWorkspaceContains:.git/config"],
+
+  "entitlements": {
+    "process": true
+  },
+
+  "commands": {
+    "command-palette": [
+      {
+        "title": "Open Workspace in Sublime Merge",
+        "command": "sublime-merge.openRepository"
+      }
+    ],
+    "editor": [
+      {
+        "title": "Blame in Sublime Merge",
+        "command": "sublime-merge.blame",
+        "when": "documentHasPath && editorHasFocus"
+      },
+      {
+        "title": "View file history in Sublime Merge",
+        "command": "sublime-merge.fileHistory",
+        "when": "documentHasPath && editorHasFocus"
+      }
+    ]
+  }
+}
