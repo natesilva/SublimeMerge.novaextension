@@ -4,6 +4,9 @@
   "organization": "Nate Silva",
   "description": "Open the current workspace with the Sublime Merge Git client.",
   "version": "1.0",
+  "repository": "https://github.com/natesilva/SublimeMerge.novaextension",
+  "bugs": "https://github.com/natesilva/SublimeMerge.novaextension/issues",
+  "license": "MIT",
   "categories": ["commands"],
 
   "main": "main.js",
