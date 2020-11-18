@@ -13,10 +13,11 @@
   },
 
   "commands": {
-    "command-palette": [
+    "extensions": [
       {
         "title": "Open Workspace in Sublime Merge",
-        "command": "sublime-merge.openRepository"
+        "command": "sublime-merge.openRepository",
+        "shortcut": "shift-cmd-m"
       }
     ],
     "editor": [

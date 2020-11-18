@@ -16,11 +16,14 @@ To access the commands:
 The available workspace commands are:
 
 - **Open Workspace in Sublime Merge**
+  - The default keyboard shortcut is <kbd>Shift</kbd>-<kbd>Cmd</kbd>-<kbd>M</kbd>
 
 The following commands are available when editing a file that has previously been saved:
 
 - **Blame in Sublime Merge**—show the Git blame view in Sublime Merge
 - **View file history in Sublime Merge**—show the file’s history in Sublime Merge
+
+### Keyboard shortcuts
 
 To set keyboard shortcuts for any of the above commands, use Nova’s [key bindings](https://library.panic.com/nova/preferences/#key-bindings) feature.
 
