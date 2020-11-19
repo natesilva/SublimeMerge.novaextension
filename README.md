@@ -29,4 +29,4 @@ To set keyboard shortcuts for any of the above commands, use Nova’s [key bindi
 
 #### Attribution
 
-Icon: [Merge](https://thenounproject.com/term/merge/366710) by Stephen Plaster from the Noun Project [CCBY](https://creativecommons.org/licenses/by/3.0/us/legalcode)
+Icon: [Merge](https://thenounproject.com/term/merge/5026) by Dmitry Baranovskiy from the Noun Project [CCBY](https://creativecommons.org/licenses/by/3.0/us/legalcode)
